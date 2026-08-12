@@ -120,6 +120,8 @@ export default function Hero() {
             {business.rating} · {business.reviewCount.toLocaleString()}+ Reviews
           </span>
         </motion.div>
+      
+      
       </div>
     </section>
   );
